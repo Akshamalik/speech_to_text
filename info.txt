@@ -1,0 +1,5 @@
+package-->react-speech-recognition
+react-use-clipboard
+
+UncaughtReference error regenrator-npm i regenerator-runtime
+also add import 'regenerator-runtime/runtime.js' in main.jsx
